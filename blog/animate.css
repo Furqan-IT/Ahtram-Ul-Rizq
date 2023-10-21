@@ -1,0 +1,13 @@
+/***************************
+        ANIMATE.CSS
+****************************/
+
+
+/*dot*/
+.dot{
+    width:11px;
+    height:11px;
+    border:2px solid var(--white);
+    border-radius:50%;
+    background-color:#09d408;
+}
